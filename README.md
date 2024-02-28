@@ -47,4 +47,4 @@ Use this script responsibly and in accordance with Google's terms of service. Th
 ## Author
 
 KhanutBJ
-mail: ckbj2016@gmail.com
+email: ckbj2016@gmail.com
